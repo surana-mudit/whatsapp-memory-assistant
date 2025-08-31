@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+requests
+mem0ai
+elevenlabs
+twilio
+python-dotenv
+sqlite-utils
+Pillow
+pytest
+httpx
+alembic
+sqlalchemy
+portkey-ai
